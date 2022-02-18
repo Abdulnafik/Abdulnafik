@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdulnafik
-- 👀 I’m interested in Computer Networking 
-- 🌱 I’m currently learning cloud computing
-- 💞️ I’m looking to collaborate on Cloud and networking
+- 👀 I’m interested in Python, Cloud computing and Computer Networking 
+- 🌱 I’m currently learning Python and cloud computing
+- 💞️ I’m looking to collaborate on Python, Cloud and networking
 - 📫 Reach me on nafik4career@gmail.com
 
 <!---
